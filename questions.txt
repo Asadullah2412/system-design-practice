@@ -1,0 +1,6 @@
+1. E-Commerce Shopping Cart System
+2. Digital Bank Account Engine
+3. Hotel Room Booking System
+4. Movie Ticket Booking System 
+5. Stock Brokerage Dashboard Simulation
+6. Ride-Sharing Service
